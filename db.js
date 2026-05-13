@@ -1,0 +1,1 @@
+const dbDir = path.join(__dirname, 'data');
